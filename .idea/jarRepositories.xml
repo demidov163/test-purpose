@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="1000k-gitlab-mirror" />
+      <option name="name" value="1000kit components repository" />
+      <option name="url" value="https://fibercoop-wbench.devops.telekom.de/nexus3/repository/maven-all/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="local-releases" />
+      <option name="name" value="nexus repository by telekom" />
+      <option name="url" value="https://fibercoop-wbench.devops.telekom.de/nexus3/repository/maven-all/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-snapshots-fc" />
+      <option name="name" value="nexus-snapshots-fc" />
+      <option name="url" value="https://digihub-wbench.workbench.telekom.de/nexus3/repository/maven-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://fibercoop-wbench.devops.telekom.de/nexus3/repository/maven-all/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="local-releases" />
+      <option name="name" value="nexus repository by telekom" />
+      <option name="url" value="https://digihub-wbench.workbench.telekom.de/nexus3/repository/maven-all/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="1000k-gitlab-mirror" />
+      <option name="name" value="1000kit components repository" />
+      <option name="url" value="https://digihub-wbench.workbench.telekom.de/nexus3/repository/maven-all/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="stage" />
+      <option name="name" value="stage" />
+      <option name="url" value="http://digihub-wbench.workbench.telekom.de/nexus/content/repositories/stage" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="stage-fc" />
+      <option name="name" value="stage" />
+      <option name="url" value="https://artifactory.devops.telekom.de/artifactory/gfnw-stage/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="configuration-fc" />
+      <option name="name" value="configuration" />
+      <option name="url" value="https://fibercoop-wbench.devops.telekom.de/nexus3/repository/configuration/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="stage-fc" />
+      <option name="name" value="stage" />
+      <option name="url" value="https://fibercoop-wbench.devops.telekom.de/nexus3/repository/stage/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-releases-fc" />
+      <option name="name" value="nexus repository by telekom" />
+      <option name="url" value="https://digihub-wbench.workbench.telekom.de/nexus3/repository/maven-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="configuration-fc" />
+      <option name="name" value="configuration" />
+      <option name="url" value="https://digihub-wbench.workbench.telekom.de/nexus3/repository/configuration/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-snapshots-fc" />
+      <option name="name" value="nexus-snapshots-fc" />
+      <option name="url" value="https://fibercoop-wbench.devops.telekom.de/nexus3/repository/maven-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="releases" />
+      <option name="name" value="some repo - for excel plugin" />
+      <option name="url" value="https://digihub-wbench.workbench.telekom.de/nexus3/repository/maven-all/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus" />
+      <option name="name" value="nexus repository by telekom, PI, SE, QTS" />
+      <option name="url" value="https://fibercoop-wbench.devops.telekom.de/nexus3/repository/maven-all/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-snapshots" />
+      <option name="name" value="nexus repository by telekom" />
+      <option name="url" value="http://digihub-wbench.workbench.telekom.de/nexus/content/repositories/snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="configuration" />
+      <option name="name" value="configuration" />
+      <option name="url" value="http://digihub-wbench.workbench.telekom.de/nexus/content/repositories/configuration" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus" />
+      <option name="name" value="nexus repository by telekom, PI, SE, QTS" />
+      <option name="url" value="https://digihub-wbench.workbench.telekom.de/nexus3/repository/maven-all/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="releases" />
+      <option name="name" value="some repo - for excel plugin" />
+      <option name="url" value="https://fibercoop-wbench.devops.telekom.de/nexus3/repository/maven-all/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="all" />
+      <option name="name" value="nexus repository by telekom" />
+      <option name="url" value="https://fibercoop-wbench.devops.telekom.de/nexus3/repository/maven-all/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-snapshots-fc" />
+      <option name="name" value="nexus-snapshots-fc" />
+      <option name="url" value="https://fibercoop-wbench.devops.telekom.de/nexus3/repository/maven-all/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="all" />
+      <option name="name" value="nexus repository by telekom" />
+      <option name="url" value="https://digihub-wbench.workbench.telekom.de/nexus3/repository/maven-all/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="stage-fc" />
+      <option name="name" value="stage" />
+      <option name="url" value="https://digihub-wbench.workbench.telekom.de/nexus3/repository/stage/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-releases-fc" />
+      <option name="name" value="nexus repository by telekom" />
+      <option name="url" value="https://fibercoop-wbench.devops.telekom.de/nexus3/repository/maven-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="automation" />
+      <option name="name" value="automation" />
+      <option name="url" value="http://digihub-wbench.workbench.telekom.de/nexus/content/repositories/automation" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="configuration-fc" />
+      <option name="name" value="configuration" />
+      <option name="url" value="https://artifactory.devops.telekom.de/artifactory/gfnw-configuration/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nexus-releases" />
+      <option name="name" value="nexus repository by telekom" />
+      <option name="url" value="http://digihub-wbench.workbench.telekom.de/nexus/content/repositories/2ndparty" />
+    </remote-repository>
+  </component>
+</project>
